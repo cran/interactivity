@@ -1,0 +1,7 @@
+832ff654c7c0eefffaa3e5215f68eedc *DESCRIPTION
+c158663b62706ed643d1554e41999573 *NAMESPACE
+58ffa98110f0fdbdbdb2b71f651faa51 *R/setInteractive.R
+d41d8cd98f00b204e9800998ecf8427e *README
+e117e6eda5331936e9b16dc6ae2305be *man/interactivity-package.Rd
+0f6ad017cd9f389eb9af3b79a140ebe7 *man/setInteractive.Rd
+2bcb96a6af1d6e9535bda31fa933f772 *src/interactivity.c
